@@ -1,0 +1,52 @@
+.table td
+{
+ padding: 0 30px;
+ height: 50px;
+}
+ul
+{
+    list-style: none;
+}
+
+.perks
+{
+    font-size: 30px;
+    justify-content: center;
+    text-align: center;
+}
+.align
+{
+    justify-content: center;
+    text-align: center;
+
+}
+.mem
+{
+    background-image: url('https://images.hdqwalls.com/wallpapers/neon-half-circle-orange-5k-um.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 75%;
+    justify-content: center;
+}
+table
+{
+    display: flex;
+    justify-content: center;
+}
+.div
+{
+    background-color: 'Orange';
+    height:  '100vh';
+    display: 'flex';
+    justify-content: 'center';
+    align-items: 'center'; 
+    text-align: 'center';
+}
+.sm
+{
+    color: bisque;
+}
+.mem h1
+{
+    color: white;
+}

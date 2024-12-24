@@ -1,0 +1,120 @@
+*
+{
+  margin: 0;
+}
+
+.home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 725px;
+    width:1519px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    color:white;
+  }
+  
+  header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .work
+  {
+    background-color: rgb(7, 7, 7);
+    padding-bottom: 200px;
+  
+    
+  }
+  main
+  {
+    display: flex;
+    justify-content: center;
+  }
+  .work
+  { 
+    background-image: url('https://t4.ftcdn.net/jpg/04/23/35/13/360_F_423351315_Fo5qyH0wubvpGIAoCbt0QpfTBf1Fq5Vw.jpg');
+
+    height: 650px;
+    width: 1519px;
+  }
+  .work .head
+  {
+    color: white;
+  }
+
+  .con
+  {
+    
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+ 
+  color:wheat;
+    height: 550px;
+    width: 1519px;
+    
+  }
+  .con table
+  { 
+  
+    display: contents;
+  
+    
+
+  }
+  .con h2
+  {
+    text-align: center;
+
+  }
+ .icon
+  {
+    text-align: center;
+  }
+
+  .con tr
+  {
+    display: flex;
+    justify-content: center;
+  }
+  .con td{
+    padding: 40px;
+
+  }
+  
+  .pro
+  {
+    
+   background-color: black;
+
+  }
+  .side
+  {
+    margin-right: auto;
+  }
+  .bmic
+  {
+    background-image: url('https://i0.wp.com/longreads.com/wp-content/uploads/2019/06/papuanewguinea_v1.jpg?fit=1200%2C700&ssl=1');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 30%;
+    height: 700px;
+    color: white;
+    
+
+  }
+.bmic .txt
+{ 
+  padding-top: 100px;
+  background-color: rgba(52, 49, 48, 0.628);
+  text-align: justify;
+  padding: 20px;
+  height: 500px;
+}
+  
+
+  
+  
+  

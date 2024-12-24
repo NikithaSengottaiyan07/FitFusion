@@ -1,0 +1,64 @@
+
+.container { 
+	max-width: 400px; 
+	margin: 0 auto; 
+	padding: 70px; 
+    border-radius: 12px;
+} 
+
+.h1 { 
+	color: rgb(225, 215, 215); 
+	text-align: center; 
+	margin-bottom: 20px; 
+} 
+
+.input-container { 
+	margin-bottom: 10px; 
+} 
+
+label { 
+	display: block; 
+	font-weight: bold; 
+	margin-bottom: 5px; 
+	color:rgb(225, 215, 215);  ;
+} 
+
+input[type='number'] { 
+	width: 100%; 
+	padding: 10px; 
+	font-size: 16px; 
+} 
+
+.calculate-btn { 
+	display: block; 
+	width: 100%; 
+	padding: 10px; 
+	background-color:rgb(232, 94, 44); 
+	color: black; 
+	font-size: 16px; 
+	border: none; 
+	border-radius: 4px; 
+	cursor: pointer; 
+} 
+
+.result { 
+	margin-top: 20px; 
+	padding: 10px; 
+	background-color: #f0f0f0; 
+	border-radius: 4px; 
+} 
+
+.bmi-value { 
+	font-weight: bold; 
+} 
+
+.bmi-message { 
+	color: orangered; 
+	font-weight: bold; 
+}
+.bmimain
+{
+	background-image: url('https://wallpapercave.com/wp/wp3325889.jpg');
+	background-position: 60%;
+	height: 700px;
+}

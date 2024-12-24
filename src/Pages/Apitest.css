@@ -1,0 +1,13 @@
+.api
+{
+    display: flexbox;
+    justify-content: center;
+    padding: 200px;
+}
+.popup-content
+{
+    text-align: center;
+    height: 300px;
+    width: 600px;
+
+}
